@@ -1,2 +1,2 @@
 # rsschool-cv
-RS school course
+[CV link](https://github.com/Abdikhaniyev/rsschool-cv/cv)
